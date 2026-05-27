@@ -29,8 +29,8 @@ const contactLinks = [
   {
     id: 'facebook',
     label: 'Facebook',
-    value: 'facebook.com/yourprofile',
-    href: 'https://facebook.com/yourprofile',
+    value: 'facebook.com/Jherome Guevarra',
+    href: 'https://www.facebook.com/jirosan19',
     icon: '📘',
     color: 'rgba(100,160,255,0.6)',
     glow:  'rgba(60,120,255,0.08)',
@@ -38,21 +38,13 @@ const contactLinks = [
   {
     id: 'github',
     label: 'GitHub',
-    value: 'github.com/yourusername',
-    href: 'https://github.com/yourusername',
+    value: 'github.com/jheromeguevarra285-jiro',
+    href: 'https://github.com/jheromeguevarra285-jiro',
     icon: '🐙',
     color: 'rgba(200,200,200,0.6)',
     glow:  'rgba(160,160,160,0.08)',
   },
-  {
-    id: 'linkedin',
-    label: 'LinkedIn',
-    value: 'linkedin.com/in/yourprofile',
-    href: 'https://linkedin.com/in/yourprofile',
-    icon: '💼',
-    color: 'rgba(100,200,255,0.6)',
-    glow:  'rgba(60,160,255,0.08)',
-  },
+
 ]
 
 function BackButton() {

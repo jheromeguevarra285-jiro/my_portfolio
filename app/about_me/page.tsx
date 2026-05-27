@@ -24,7 +24,7 @@ const aboutSections = [
     id: 'who',
     label: '01 / WHO',
     title: 'Who I Am',
-    body: "I'm Jherome, a Computer Science student with a genuine curiosity for how things are built — from the logic behind a well-structured algorithm to the feeling of landing on a beautifully designed interface. I care deeply about craft.",
+    body: "I'm Jherome, a BSIT student with a genuine curiosity for how things are built — from the logic behind a well-structured algorithm to the feeling of landing on a beautifully designed interface. I care deeply about craft.",
   },
   {
     id: 'what',
